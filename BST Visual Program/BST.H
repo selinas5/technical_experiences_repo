@@ -1,10 +1,3 @@
-/**
- * cs010C_sum22B
- * lab 4
- * BST.H
- * RR
- */
-
 #ifndef BST_H_
 #define BST_H_
 

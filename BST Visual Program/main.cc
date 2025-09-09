@@ -1,11 +1,3 @@
-/**
- * cs010C_sum22B
- * lab 4
- * main.cc
- * RR
- */
-//Partner: ssyed041
-// We worked on this file together(on this AWS Env).
 #include "BST.H"
 #include <iostream>
 #include <fstream>
